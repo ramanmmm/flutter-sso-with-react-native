@@ -14,8 +14,8 @@ flutter doctor -v
 
 To begin, clone the Heartfulness sample repository and navigate into the project directory:
 ```sh
-git clone git@github.com:mogiiodotcom/heartfulness.org-sample.git
-cd heartfulness.org-sample
+git clone https://github.com/ramanmmm/flutter-sso-with-react-native.git
+cd flutter-sso-with-react-native 
 ```
 
 Install the necessary Flutter packages by running:
